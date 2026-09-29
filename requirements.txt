@@ -1,0 +1,12 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+sqlmodel>=0.0.19
+aiosqlite>=0.20
+httpx[socks]>=0.27
+python-multipart>=0.0.9
+cryptography>=42.0
+pydantic-settings>=2.3
+loguru>=0.7
+aiofiles>=23.0
+tzdata>=2024.1
+google-genai>=1.0

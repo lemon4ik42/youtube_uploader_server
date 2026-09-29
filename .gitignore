@@ -1,0 +1,6 @@
+.pytest_cache
+.test-deps
+.venv
+uploader_server.rar
+SPECIFICATION.md
+__pycache__
